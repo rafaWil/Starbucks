@@ -27,6 +27,12 @@ header .line {
 .header--area {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     height: 100px;
-    background-color: green;
+}
+
+/* IMG LOGO header */
+.header--left img {
+    width: 64px;
+    height: 64px;
 }
