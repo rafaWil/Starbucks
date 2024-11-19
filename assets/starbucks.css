@@ -36,3 +36,11 @@ header .line {
     width: 64px;
     height: 64px;
 }
+
+/* SEARCH */
+.header--search input {
+    font-size: 16px;
+    padding: 7px 10px;
+    border: 1px solid #999999;
+    outline: 0;
+}
