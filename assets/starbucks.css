@@ -16,3 +16,9 @@ header .line {
     background-color: #117050;
     height: 10px;
 }
+
+/* CONTAINER in Header */
+.container {
+    max-width: 1140px;
+    margin: auto;
+}
