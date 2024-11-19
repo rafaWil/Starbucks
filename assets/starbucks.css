@@ -22,3 +22,11 @@ header .line {
     max-width: 1140px;
     margin: auto;
 }
+
+/* Header AREA */
+.header--area {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    background-color: green;
+}
