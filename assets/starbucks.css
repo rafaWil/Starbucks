@@ -73,3 +73,9 @@ header .line {
 .header--menu {
     margin-left: 50px;
 }
+
+/* IMG in Menu Header */
+.header--menu img {
+    width: 24px;
+    height: 24px;
+}
