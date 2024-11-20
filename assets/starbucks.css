@@ -40,6 +40,7 @@ header .line {
 /* MENU topics */
 .header--right {
     display: flex;
+    align-items: center;
 }
 
 /* SEARCH */
@@ -72,6 +73,7 @@ header .line {
 /* Header MENU */
 .header--menu {
     margin-left: 50px;
+    cursor: pointer;
 }
 
 /* IMG in Menu Header */
