@@ -43,4 +43,17 @@ header .line {
     padding: 7px 10px;
     border: 1px solid #999999;
     outline: 0;
+    width: 100%;
+    max-width: 220px;
+}
+
+/* BUTTON In Search */
+.header--search button {
+    border: 0;
+    background: transparent;
+}
+
+.header--search button img {
+    width: 16px;
+    height: 16px;
 }
