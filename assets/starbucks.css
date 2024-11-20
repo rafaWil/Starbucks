@@ -55,6 +55,8 @@ header .line {
 .header--search button {
     border: 0;
     background: transparent;
+    margin-left: -30px;
+    cursor: pointer;
 }
 
 .header--search button img {
