@@ -37,6 +37,11 @@ header .line {
     height: 64px;
 }
 
+/* MENU topics */
+.header--right {
+    display: flex;
+}
+
 /* SEARCH */
 .header--search form {
     display: flex;
