@@ -38,6 +38,10 @@ header .line {
 }
 
 /* SEARCH */
+.header--search form {
+    display: flex;
+}
+
 .header--search input {
     font-size: 16px;
     padding: 7px 10px;
