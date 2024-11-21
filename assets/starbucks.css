@@ -91,3 +91,11 @@ header .line {
     background-position: center;
     background-size: cover;
 }
+
+/* TITLE */
+.banner h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    line-height: 100px;
+    font-size: 90px;
+}
