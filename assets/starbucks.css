@@ -221,7 +221,7 @@ h2 {
 .area2--img1 {
     background-color: green;
     height: 350px;
-    background-image: url('../images/f2.jpg');
+    background-image: url('../images/f4.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -230,7 +230,7 @@ h2 {
     background-color: red;
     grid-column: 2 / 3;
     grid-row: 1 / 3;
-    background-image: url('../images/f1.jpg');
+    background-image: url('../images/f3.jpg');
     background-size: cover;
     background-position: center;
 }
