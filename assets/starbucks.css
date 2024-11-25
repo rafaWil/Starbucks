@@ -30,6 +30,24 @@ header .line {
     height: 22px;
 }
 
+/* H1 */
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 90px;
+    line-height: 100px;
+    margin: 0;
+    margin-bottom: 30px;
+}
+
+/* H2 */
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    margin: 0;
+}
+
 /* Header AREA */
 .header--area {
     display: flex;
