@@ -176,6 +176,11 @@ h2 {
     margin-bottom: 30px;
 }
 
+.area1--text {
+    margin-bottom: 50px;
+    line-height: 25px;
+}
+
 .area1--img1 {
     background-color: green;
     height: 350px;
