@@ -23,6 +23,13 @@ header .line {
     margin: auto;
 }
 
+/* LINE GREEN -- (BAR)*/
+.bar {
+    background-color: #006341;
+    width: 168px;
+    height: 22px;
+}
+
 /* Header AREA */
 .header--area {
     display: flex;
