@@ -262,12 +262,12 @@ h2 {
 /* AREA 4 */
 .area4 {
     display: grid;
-    grid-template-columns: 500px 1fr;
+    grid-template-columns: 450px 1fr;
     background-color: #e8e9ee;
 }
 
 .area4--content {
-    padding: 80px;
+    padding: 150px 80px;
 }
 
 .area4--text {
