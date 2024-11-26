@@ -289,3 +289,22 @@ h2 {
     background-position: center;
     height: 600px;
 }
+
+
+/* FOOTER */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer a {
+    text-decoration: none;
+    color: #fff;
+}
+
+footer a:hover {
+    color: #117050;
+}
